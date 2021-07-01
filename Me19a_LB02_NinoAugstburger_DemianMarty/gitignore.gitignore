@@ -1,0 +1,13 @@
+.gitignore
+
+
+# Ignore (generated) mp3 files,
+*.mp3
+
+
+# Ignore (generated) mp4 files,
+*.mp4
+
+
+# Ignore (generated) jpg files,
+*.jpg
